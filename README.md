@@ -20,6 +20,10 @@ In your folder you plan to use for your assignment, add a folder named images.  
 
 This works best if you have at least two monitors.  I use three so I can have the Lecture on 1, my Screenshot Viewer notebook on the second one and my follow along notebook on the third.
 
-# Hope it works for you.
+# Hope it works for you!
+
+An added note of caution...should you forget to change your directory for LightShot, you may end up with shots you used to answer a Facebook post...
+
+<img align="left" src="https://github.com/vjmiyagi/vjmiyagi.github.io/blob/master/img/emu.png?raw=true" width=600>
 
 
