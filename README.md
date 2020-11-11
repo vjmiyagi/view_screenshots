@@ -4,6 +4,12 @@ I used to get frustrated during Zoom lectures if I tried to follow along as we a
 
 NUTS TO THIS!  There is a much better way to handle it.  First grab a screenshot of the code you need while it is displayed and then use the Jupyter Notebook, ViewScreenShots, to display.
 
+### Giving Credit Where Credit is Due...
+
+<img align="left" src="https://github.com/vjmiyagi/vjmiyagi.github.io/blob/master/img/WidgetTutorial.png?raw=true" width=100>
+
+I got the idea for this watching [This YouTube Tutorial](https://www.youtube.com/watch?v=SDy7aBahFuQ) about Widgets.  He packs a ton of information in this tutorial!  Very worthwhile.  Certainly much more than just Widgets.
+
 <img align="right" src="https://github.com/vjmiyagi/vjmiyagi.github.io/blob/master/img/LightShot.png?raw=true" width=200>
 
 There is an app I like for screenshots called [LightShot](https://app.prntscr.com/en/index.html).  Once installed, to use it hit your Print Screen key and it will grey out your display.  Using your mouse, draw a box around the area you want a shot of and then click the save icon.
